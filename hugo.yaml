@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://sabrinanorwood.github.io/personal_website/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
