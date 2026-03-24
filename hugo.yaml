@@ -153,7 +153,7 @@ params:
     intro: "Hi, my name is"
     title: "Sabrina."
     content: "I research digital technologies, human behaviour, and open/meta science"
-    image: /images/hero.svg
+    image: /images/me.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -367,11 +367,7 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
+      enable: false
     socialNetworks:
       github: https://github.com
       linkedin: https://linkedin.com
